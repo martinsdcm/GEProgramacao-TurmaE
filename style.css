@@ -1,13 +1,13 @@
 body {
-	background-color: blue;
+	background-color: darkslategray;
 }
 h1 {
 	text-align: center;
 	font-size: 60px;
-	color: red;
+	color:rgb(51, 1, 1)
 }
 
-h2, h2 {
+h2 {
 	text-align: center;
 	font-size: 30px;
 }
